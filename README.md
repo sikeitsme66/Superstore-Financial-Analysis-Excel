@@ -76,7 +76,7 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 ---
 
 ## 📸 Dashboard Preview
-
+![Dashboard](preview/Dashboard_preview.png)
 
 ---
 
@@ -92,5 +92,5 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 Faiza
 
 ---
-
+> ⚠️ Note: Due to file size, GitHub cannot preview the Excel dashboard. Please download the file to view the full interactive dashboard.
 ⭐ If you like this project, feel free to star the repo!
