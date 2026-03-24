@@ -82,7 +82,7 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 
 ## 📁 Files Included
 - `data/` → Raw dataset (CSV)
-- `dashboard/` → Excel dashboard (protected)
+- `dashboard/` → Excel dashboard (download to view)
 - `report/` → Detailed Word report
 - `image/` → Dashboard Screenshot
 
